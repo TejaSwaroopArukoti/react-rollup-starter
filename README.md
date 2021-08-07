@@ -1,3 +1,4 @@
+# React Rollup Starter
 This project demonstrates how to use rollup to bootstrap a react project.
 This is for purely development purposes.
 
